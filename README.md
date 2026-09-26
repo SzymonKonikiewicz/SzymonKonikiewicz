@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Szymon 👋
 
-<!--
-**SzymonKonikiewicz/SzymonKonikiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Currently building a **Data Warehouse** for my bachelor's thesis
+- Looking for opportunities in database management, data engineering, or the AI sector
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python (Pandas, Matplotlib), SQL, Java, C++
+- **Tools & Data:** Apache Airflow, Power BI, Docker, WSL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- **LinkedIn:** [Szymon Konikiewicz](https://www.linkedin.com/in/szymon-konikiewicz-039552393/)
+- **Email:** [szymon.konikiewicz@gmail.com](mailto:szymon.konikiewicz@gmail.com)
+
